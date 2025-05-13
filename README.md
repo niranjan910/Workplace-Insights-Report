@@ -98,12 +98,5 @@ Key characteristics:
 ## 📬 Contact
 
 For queries or collaborations:  
-- **Email:** [your-email@domain.com]  
-- **LinkedIn:** [Your Profile URL]  
-"""
-
-# Write to README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file generated successfully!")
+- **Email:** niranjan991100@gmail.com  
+- **LinkedIn:** [Niranjan's Profile](https://www.linkedin.com/in/niranjan-k-a83517229/)
