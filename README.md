@@ -1,9 +1,7 @@
-
-readme_content = """
 # Workplace Insight Report
 
-**Author:** Niranjan 
-**Date:** 13 - MArch - 2025 
+- **Author:** Niranjan 
+- **Date:** 13 - MArch - 2025 
 
 ---
 
